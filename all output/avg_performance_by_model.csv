@@ -1,0 +1,5 @@
+model_simple,accuracy,precision,recall,f1
+LinearSVC ,0.9239,0.9177,0.9319,0.9239
+LogReg ,0.9256,0.9201,0.9326,0.9256
+RandomForest ,0.9482,0.9447,0.9525,0.9485
+TriViewEnsemble,0.9809,0.976,0.987,0.9814

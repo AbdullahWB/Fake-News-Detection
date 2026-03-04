@@ -1,0 +1,2 @@
+model,features,accuracy,precision,recall,f1,dataset
+LogReg (ISOT),tfidf_text,0.997327394209354,0.9985955056179776,0.9957983193277312,0.9971949509116408,ISOT
